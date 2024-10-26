@@ -1,0 +1,8 @@
+{
+  "contest": 454,
+  "handle": "0xrex",
+  "risk": "3",
+  "title": "Liquidity migrations from v2 to v3 for LPers will not work",
+  "issueId": 2,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/2"
+}
