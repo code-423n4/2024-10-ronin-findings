@@ -1,0 +1,8 @@
+{
+  "contest": 454,
+  "handle": "BenRai",
+  "risk": "2",
+  "title": "Authorisation check for minting positions for V3 pools in the `nfpManager` is pointing to the v2Factory",
+  "issueId": 3,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/3"
+}
