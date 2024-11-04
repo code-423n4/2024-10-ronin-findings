@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "auditweiler",
+  "risk": "2",
+  "title": "Expired Tokens Continue To be Authorized",
+  "issueId": 63,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/63",
+  "originalIssueId": 84,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/84"
+}
