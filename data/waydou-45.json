@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "waydou",
+  "risk": "3",
+  "title": "Authorization Bypass Due to Expired Timestamp Check",
+  "issueId": 45,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/45",
+  "originalIssueId": 212,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/212"
+}
