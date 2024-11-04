@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "Divide-before-multiplication loss in Oracle.observseSingle() leads to inaccurate results for tickCumulative for the KatanaV3Pool contract.",
+  "issueId": 20,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/20",
+  "originalIssueId": 120,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/120"
+}
