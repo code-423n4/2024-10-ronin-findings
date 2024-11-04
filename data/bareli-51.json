@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "CREATE2` address collision during pool deployment allows for complete draining of the pool",
+  "issueId": 51,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/51",
+  "originalIssueId": 141,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/141"
+}
