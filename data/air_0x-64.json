@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "air_0x",
+  "risk": "2",
+  "title": "LPholders can be prevented from burning their position NFTs",
+  "issueId": 64,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/64",
+  "originalIssueId": 83,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/83"
+}
