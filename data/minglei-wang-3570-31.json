@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "minglei-wang-3570",
+  "risk": "2",
+  "title": "Authorization function of the Governance can still restrict user from migrating v2 liquidity to v3 liquidity",
+  "issueId": 31,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/31",
+  "originalIssueId": 61,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/61"
+}
