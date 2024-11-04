@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "inh3l",
+  "risk": "2",
+  "title": "No way for governance to properly update `feeProtocolNum` and `feeProtocolDen`",
+  "issueId": 7,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/7",
+  "originalIssueId": 252,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/252"
+}
