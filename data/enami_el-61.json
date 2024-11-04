@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "enami_el",
+  "risk": "3",
+  "title": "Precision Loss in Oracle's Tick Cumulative Calculation Due to Integer Division Order ",
+  "issueId": 61,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/61",
+  "originalIssueId": 92,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/92"
+}
