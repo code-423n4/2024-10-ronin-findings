@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "DCENT09",
+  "risk": "2",
+  "title": "Insufficient input validation may lead to loss of funds due to invalid or malicious input data.",
+  "issueId": 9,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/9",
+  "originalIssueId": 183,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/183"
+}
