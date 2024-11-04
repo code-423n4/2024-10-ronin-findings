@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "KatanaV3Pool.observe() will likely revert when the current timestamp wraps around the 2**32 boundary, and after time >= 2**32, observations before < 2**32 all become not available to observe,",
+  "issueId": 18,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/18",
+  "originalIssueId": 122,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/122"
+}
