@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "bareli",
+  "risk": "2",
+  "title": "slot0 is easy to manupilate",
+  "issueId": 48,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/48",
+  "originalIssueId": 172,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/172"
+}
