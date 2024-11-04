@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "3",
+  "title": "LiquidityManagement.katanaV3MintCallback() is subject to address collision attack, allowing an attacker to steal funds from users who  give approvals to the NonfungiblePositionManager.",
+  "issueId": 32,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/32",
+  "originalIssueId": 51,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/51"
+}
