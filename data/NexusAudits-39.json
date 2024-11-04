@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "slot0 Reliance in swap Allows Price Manipulation",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/39",
+  "originalIssueId": 253,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/253"
+}
