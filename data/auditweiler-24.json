@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "auditweiler",
+  "risk": "2",
+  "title": "`NonFungiblePositionManager::collect` Is Liable To Underflow",
+  "issueId": 24,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/24",
+  "originalIssueId": 112,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/112"
+}
