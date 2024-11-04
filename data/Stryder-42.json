@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "Stryder",
+  "risk": "2",
+  "title": "Address Collision Attack Using CREATE2 in Katana V3 Pool Deployment",
+  "issueId": 42,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/42",
+  "originalIssueId": 237,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/237"
+}
