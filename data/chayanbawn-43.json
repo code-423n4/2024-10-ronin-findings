@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chayanbawn",
+  "risk": "3",
+  "title": "_isAuthorized function allows user to continue even after expiry time has passed.",
+  "issueId": 43,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/43",
+  "originalIssueId": 231,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/231"
+}
