@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "minglei-wang-3570",
+  "risk": "2",
+  "title": "V3SwapRouter.sol#checkAuthorizedV3Path cannot decode all token involved",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/79",
+  "originalIssueId": 65,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/65"
+}
