@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "Leftover ETH by the previous liquidator provider might be stolen by another liquidator provider. ",
+  "issueId": 69,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/69",
+  "originalIssueId": 57,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/57"
+}
