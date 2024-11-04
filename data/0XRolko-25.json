@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "0XRolko",
+  "risk": "2",
+  "title": " Missing `address(0)` while initializing the `PeripheryImmutableState` in his constructor.",
+  "issueId": 25,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/25",
+  "originalIssueId": 111,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/111"
+}
