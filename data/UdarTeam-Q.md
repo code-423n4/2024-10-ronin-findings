@@ -1,0 +1,3 @@
+# [QA] Useless `initialize()` function.
+
+The `initialize()` function at [NonfungiblePositionManager.sol::103](https://github.com/ronin-chain/katana-v3-contracts/blob/03c80179e04f40d96f06c451ea494bb18f2a58fc/src/periphery/NonfungiblePositionManager.sol#L103) will always revert because the variables `_nextId` and `_nextPoolId` are set by default to `1` at [NonfungiblePositionManager.sol::83](https://github.com/ronin-chain/katana-v3-contracts/blob/03c80179e04f40d96f06c451ea494bb18f2a58fc/src/periphery/NonfungiblePositionManager.sol#L83) and [NonfungiblePositionManager.sol::85](https://github.com/ronin-chain/katana-v3-contracts/blob/03c80179e04f40d96f06c451ea494bb18f2a58fc/src/periphery/NonfungiblePositionManager.sol#L85)
