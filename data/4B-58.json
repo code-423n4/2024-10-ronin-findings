@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "4B",
+  "risk": "2",
+  "title": "`v3SwapRouter` is vulnerable to address collision",
+  "issueId": 58,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/58",
+  "originalIssueId": 103,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/103"
+}
