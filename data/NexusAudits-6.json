@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "NexusAudits",
+  "risk": "2",
+  "title": "Lack of Price Impact & Slippage Protection in quoteExactInput",
+  "issueId": 6,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/6",
+  "originalIssueId": 266,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/266"
+}
