@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "Oracle.transform() calculates the wrong secondsPerLiquidityCumulativeX128 in the transform() functions during zero liquidity period, which affects the results for  functions in KatanaV3Pool.sol.",
+  "issueId": 19,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/19",
+  "originalIssueId": 121,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/121"
+}
