@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "pro_king",
+  "risk": "2",
+  "title": " Precision Loss in `getAmountOut` Function Leads to Incorrect Price Calculations",
+  "issueId": 10,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/10",
+  "originalIssueId": 174,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/174"
+}
