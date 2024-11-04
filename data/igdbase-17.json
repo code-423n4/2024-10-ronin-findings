@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "igdbase",
+  "risk": "2",
+  "title": "ETH Dust Accumulation in `createAndInitializePoolIfNecessary`",
+  "issueId": 17,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/17",
+  "originalIssueId": 128,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/128"
+}
