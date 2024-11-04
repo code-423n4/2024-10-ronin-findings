@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "4B",
+  "risk": "2",
+  "title": "Use of slot0 which is extremely manipulatable",
+  "issueId": 57,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/57",
+  "originalIssueId": 104,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/104"
+}
