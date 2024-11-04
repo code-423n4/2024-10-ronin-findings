@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "trailongoswami",
+  "risk": "2",
+  "title": "KatanaGovernance::createPair(), Any unauthorized account can create pair with any expired token due to logical error in KatanaGovernance::_isAuthorized() function.",
+  "issueId": 56,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/56",
+  "originalIssueId": 105,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/105"
+}
