@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "Tonchi",
+  "risk": "3",
+  "title": "Wrong Implementation, `KatanaV3Factory` never be initialized.",
+  "issueId": 41,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/41",
+  "originalIssueId": 246,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/246"
+}
