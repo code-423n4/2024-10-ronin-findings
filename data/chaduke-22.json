@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "chaduke",
+  "risk": "2",
+  "title": "Wrong implementation of accesss control for KatanaGovernance._authorized()",
+  "issueId": 22,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/22",
+  "originalIssueId": 116,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/116"
+}
