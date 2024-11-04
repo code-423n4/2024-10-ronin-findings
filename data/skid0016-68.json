@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "skid0016",
+  "risk": "3",
+  "title": "Use of `slot0` to get `sqrtPriceLimitX96` can lead to price manipulation.",
+  "issueId": 68,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/68",
+  "originalIssueId": 72,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/72"
+}
