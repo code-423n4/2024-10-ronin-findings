@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "mjcpwns",
+  "risk": "2",
+  "title": "Usage of slot 0 to get sqrtPriceLimitX96 can be easily manipulated",
+  "issueId": 46,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/46",
+  "originalIssueId": 178,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/178"
+}
