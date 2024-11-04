@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "Tomasleocadio",
+  "risk": "3",
+  "title": "Use of `slot0` to get `v3SqrtPriceX96After` can lead to price manipulation.",
+  "issueId": 27,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/27",
+  "originalIssueId": 102,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/102"
+}
