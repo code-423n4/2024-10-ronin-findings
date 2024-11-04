@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "debo",
+  "risk": "2",
+  "title": "NonfungiblePositionManager has increaseLiquidity Function Missing Authorization Check",
+  "issueId": 75,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/75",
+  "originalIssueId": 24,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/24"
+}
