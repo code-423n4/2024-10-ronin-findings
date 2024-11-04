@@ -1,0 +1,10 @@
+{
+  "contest": 454,
+  "handle": "aariiif",
+  "risk": "2",
+  "title": "Pool Initialization with Extreme Prices Can Break Core Pool Mechanics",
+  "issueId": 62,
+  "issueUrl": "https://github.com/code-423n4/2024-10-ronin-findings/issues/62",
+  "originalIssueId": 87,
+  "originalIssueUrl": "https://github.com/code-423n4/2024-10-ronin-validation/issues/87"
+}
